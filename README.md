@@ -1,3 +1,9 @@
+# Steps to run this app
+1. bower i
+2. dotnet restore
+3. dotnet build
+4. dotnet run
+
 # Welcome to ASP.NET Core
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
